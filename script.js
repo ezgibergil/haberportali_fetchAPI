@@ -1,6 +1,6 @@
 
 
-const apiKey = '7be8aeafc8de4a85a0bfab1c031e57da'; 
+const apiKey = 'API_KEY'; 
 const apiUrl = 'https://newsapi.org/v2/top-headlines'
 // Haber kategorileri
 const categories = ['sports', 'technology', 'health'];
